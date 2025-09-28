@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearProgramming_Zadanie18", "LinearProgramming_Zadanie18\LinearProgramming_Zadanie18.csproj", "{D06C8756-B07E-4D09-B5EB-E6E790C6FEA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearProgramming_Zadanie18_Tests", "LinearProgramming_Zadanie18_Tests\LinearProgramming_Zadanie18_Tests.csproj", "{F3D0585E-65EE-4CB0-81F6-5718C2DB7DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D06C8756-B07E-4D09-B5EB-E6E790C6FEA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06C8756-B07E-4D09-B5EB-E6E790C6FEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06C8756-B07E-4D09-B5EB-E6E790C6FEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06C8756-B07E-4D09-B5EB-E6E790C6FEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D0585E-65EE-4CB0-81F6-5718C2DB7DA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D0585E-65EE-4CB0-81F6-5718C2DB7DA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D0585E-65EE-4CB0-81F6-5718C2DB7DA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D0585E-65EE-4CB0-81F6-5718C2DB7DA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
